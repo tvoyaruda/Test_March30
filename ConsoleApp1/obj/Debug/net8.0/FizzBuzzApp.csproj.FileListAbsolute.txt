@@ -1,0 +1,14 @@
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\FizzBuzzApp.exe
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\FizzBuzzApp.deps.json
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\FizzBuzzApp.runtimeconfig.json
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\FizzBuzzApp.dll
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\FizzBuzzApp.pdb
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.AssemblyInfoInputs.cache
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.AssemblyInfo.cs
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.dll
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\FizzBuzzApp.dll
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.pdb
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\FizzBuzzApp.genruntimeconfig.cache
+C:\Users\iraro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\FizzBuzzApp.dll
